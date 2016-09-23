@@ -1,5 +1,5 @@
 ## Extracting 3D Parametric Curves from 2D Images of Helical Objects
-This repository contains our implementation for the paper "Extracting 3D Parametric Curves from 2D Images of Helical Objects"
+Implementation of our paper "Extracting 3D Parametric Curves from 2D Images of Helical Objects"
 
 - by **Chris G. Willcocks, Philip T. G. Jackson, Carl J. Nelson, and Boguslaw Obara**
 
@@ -23,4 +23,4 @@ For general usage:
 ## License
 This code is licensed under the GNU General Public License Version 3.
 
-- For alternative licenses, please contact *chris.g.willcocks@durham.ac.uk*.
+- For alternative licenses, please contact *christopher.g.willcocks@durham.ac.uk*.
